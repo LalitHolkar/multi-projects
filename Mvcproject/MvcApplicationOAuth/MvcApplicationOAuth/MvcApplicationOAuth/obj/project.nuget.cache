@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bZy3BPFoZzo=",
+  "success": true,
+  "projectFilePath": "D:\\Pract\\Multi-Projects\\multi-projects\\Mvcproject\\MvcApplicationOAuth\\MvcApplicationOAuth\\MvcApplicationOAuth\\MvcApplicationOAuth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lalit\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
